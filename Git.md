@@ -17,3 +17,6 @@
 
 # Install Git on Mac OS x
 - Download the latest [Git for Mac installer](https://sourceforge.net/projects/git-osx-installer/files/)
+
+# Install Git on Windows
+-Download the latest [Git for Windows installer](http://gitforwindows.org/)
