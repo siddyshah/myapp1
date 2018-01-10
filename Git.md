@@ -52,5 +52,5 @@ Git is a free software distributed under the terms of the GNU General Public Lic
 	git status 
 ####  open new tab change directory
 	cd git/repo_name
-
-watch git status update the changes continuously after two second.
+	watch git status 
+update the changes continuously after two second.
