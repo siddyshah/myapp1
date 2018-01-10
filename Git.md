@@ -28,8 +28,11 @@ Git is a free software distributed under the terms of the GNU General Public Lic
 ## Install Git on Windows
 - Download the latest [Git for Windows installer](http://gitforwindows.org/)
 
-## GIT CONFIGURATION
-### Set Git Configuration
+## Git - Life Cycle
+
+### [Git Life Cycle](https://www.tutorialspoint.com/git/images/life_cycle.png)
+
+### Customize Git Environment
 
 		git config --global user.name "username" 
 		git config --global user.email "user-mail" 
