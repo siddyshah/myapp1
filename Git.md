@@ -39,3 +39,18 @@ Git is a free software distributed under the terms of the GNU General Public Lic
 		git config -- global  core.editor "editor_name" 
 		git config --global color.ui auto 
 		cat ~/.gitconfig
+
+### create Repository
+
+	git init --bare  "repo_name.git"
+### Clone Repository
+	git clone --local repo_name.git 
+### change directory
+
+	cd repo_name
+### watch git status
+	git status 
+####  open new tab change directory
+	cd git/repo_name
+
+watch git status update the changes continuously after two second.
