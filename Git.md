@@ -32,6 +32,7 @@ Git is a free software distributed under the terms of the GNU General Public Lic
 
 ### [Git Life Cycle](https://www.tutorialspoint.com/git/images/life_cycle.png)
 
+
 ### Customize Git Environment
 
 		git config --global user.name "username" 
@@ -39,6 +40,10 @@ Git is a free software distributed under the terms of the GNU General Public Lic
 		git config -- global  core.editor "editor_name" 
 		git config --global color.ui auto 
 		cat ~/.gitconfig
+
+#### Make Directory and Change Directory
+         mkdir git
+         cd git
 
 ### create Repository
 
@@ -50,7 +55,8 @@ Git is a free software distributed under the terms of the GNU General Public Lic
 	cd repo_name
 ### watch git status
 	git status 
-####  open new tab change directory
+####  open new tab  & change directory
 	cd git/repo_name
 	watch git status 
 update the changes continuously after two second.
+
