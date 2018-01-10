@@ -1,8 +1,15 @@
 
- ## What is Git 
+## What is Git
+Git is a distributed revision control and source code management system with an emphasis on speed. 
+Git was initially designed and developed by Linus Torvalds for Linux kernel development. 
+Git is a free software distributed under the terms of the GNU General Public License version 2.
+
+### Features of Git
+ 
 - Performance 
 - Security 
-- Flexibility 
+- Flexibility
+ 
 ## Install Git 
 - Install Git on Mac OS X 
 - Install Git on Windows 
