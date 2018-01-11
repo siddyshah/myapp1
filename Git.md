@@ -60,3 +60,6 @@ Git is a free software distributed under the terms of the GNU General Public Lic
 	watch git status 
 update the changes continuously after two second.
 
+	git add README 
+	git commit README
+	git commit -a
